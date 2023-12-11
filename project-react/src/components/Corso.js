@@ -46,9 +46,10 @@ const onFormSubmit = (e) => {
 
 let name = "Ilario";
 let lastname = "Cocco";
+let profession = "Dev";
 let age = 40;
 let location = "Sardegna";
-let profession = "Deveoloper";
+
 
 const user = {
   name: "Stefano",
